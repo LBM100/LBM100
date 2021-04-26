@@ -3,7 +3,11 @@
 ### Hi there 👋,I'm Laura
 
 I am new to the world of programming and digital development and I have just started my career in the world of programming.
-As I have always been interested in new technologies a few months ago I decided to take the step and study the data science bootcamp at the Ironhack school,there I learned to work with different os such as Linux , and other softwares like Git. However, what I have learned the most about is Python (yeap thats my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...) 
+As I have always been interested in new technologies, a few months ago I decided to take the step and study the Data science bootcamp at the *Ironhack* school.There I learned to work with different OP such as **Linux** , and other softwares like **Git**. However, what I have learned the most about is **Python** (yeap, that's my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...).
+##### Languages & Tools
+
+
+:mortar_board:I’m currently learning django and flask
 <!--
 **LBM100/LBM100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
