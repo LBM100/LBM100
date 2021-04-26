@@ -6,7 +6,7 @@ I am new to the world of programming and digital development and I have just sta
 As I have always been interested in new technologies, a few months ago I decided to take the step and study the Data science bootcamp at the *Ironhack school*.There I learned to work with different OP such as **Linux** , and other softwares like **Git**. However, what I have learned the most about is **Python** (yeap, that's my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...).
 ##### Skills & Tools
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
+<img https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png>
 
 - :mortar_board:Currently working,learning and growing my skillset in data structures and algorithms.
 - :raising_hand:Looking for opportunities to join as an Intern/full time in data analysis
