@@ -5,7 +5,7 @@
 I am new to the world of programming and digital development and I have just started my career in the world of programming.
 As I have always been interested in new technologies, a few months ago I decided to take the step and study the Data science bootcamp at the *Ironhack school*.There I learned to work with different OP such as **Linux** , and other softwares like **Git**. However, what I have learned the most about is **Python** (yeap, that's my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...).
 ##### Skills & Tools
-[<img src="ttps://geekflare.com/wp-content/uploads/2019/11/jupyter-1200x385.jpg"/>]
+[<img src="https://geekflare.com/wp-content/uploads/2019/11/jupyter-1200x385.jpg"/>]
 
 - :mortar_board:Currently working,learning and growing my skillset in data structures and algorithms.
 - :raising_hand:Looking for opportunities to join as an Intern/full time in data analysis
