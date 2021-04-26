@@ -1,4 +1,4 @@
-![ data](https://www.pngkey.com/png/detail/23-239701_introduction-to-data-science-data-science-introduction.png)
+![ data]()
 
 ### Hi there 👋,I'm Laura
 
