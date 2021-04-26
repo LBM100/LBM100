@@ -2,6 +2,9 @@
 
 ### Hi there 👋,I'm Laura
 
+Hi I'm Laura
+I am new to the world of programming and digital development and I have just started my career in the world of programming.
+As I have always been interested in new technologies, a few months ago I decided to take the step and study the data science bootcamp at the Ironhack school.
 <!--
 **LBM100/LBM100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
