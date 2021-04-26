@@ -1,4 +1,4 @@
-! [image] (/home/laura/Downloads/graphs.png)
+! [image] (graphs.png)
 
 ### Hi there 👋,I'm Laura
 
