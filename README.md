@@ -4,7 +4,7 @@
 
 I am new to the world of programming and digital development and I have just started my career in the world of programming.
 As I have always been interested in new technologies, a few months ago I decided to take the step and study the Data science bootcamp at the *Ironhack school*.There I learned to work with different OP such as **Linux** , and other softwares like **Git**. However, what I have learned the most about is **Python** (yeap, that's my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...).
-##### Skills & Tools
+##### Skills & Tools:
 
 <p align=center>
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png "/>     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png "/>     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png "/>
