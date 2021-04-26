@@ -1,3 +1,5 @@
+! [image] (/home/laura/Downloads/graphs.png)
+
 ### Hi there 👋,I'm Laura
 
 <!--
