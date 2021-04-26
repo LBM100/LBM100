@@ -2,9 +2,8 @@
 
 ### Hi there 👋,I'm Laura
 
-Hi I'm Laura
 I am new to the world of programming and digital development and I have just started my career in the world of programming.
-As I have always been interested in new technologies, a few months ago I decided to take the step and study the data science bootcamp at the Ironhack school.
+As I have always been interested in new technologies a few months ago I decided to take the step and study the data science bootcamp at the Ironhack school obtaining the necessary training to become a data analyst In school I learned to work with different OS such as Linux , and other softwares like Git. However, what I have learned the most about is Python (yeap thats my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...) is a very versatile language with a lot of applications.
 <!--
 **LBM100/LBM100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
