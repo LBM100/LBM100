@@ -6,9 +6,9 @@ I am new to the world of programming and digital development and I have just sta
 As I have always been interested in new technologies, a few months ago I decided to take the step and study the Data science bootcamp at the *Ironhack school*.There I learned to work with different OP such as **Linux** , and other softwares like **Git**. However, what I have learned the most about is **Python** (yeap, that's my girl), and its many libraries (pandas, numpy, scikit-learn, scipy, matplotlib ...).
 ##### Languages & Tools
 
--:raising_hand:I’m currently working on ...
--:mortar_board:I’m currently learning django and flask
--:raised_hands:I’m looking to collaborate on web design,geolocalization projects
+- :raising_hand:I’m currently working on ...
+- :mortar_board:I’m currently learning django and flask
+- :raised_hands:I’m looking to collaborate on web design,geolocalization projects
 - 🤔 I’m looking for help with 
 
 
