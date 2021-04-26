@@ -7,7 +7,7 @@ As I have always been interested in new technologies, a few months ago I decided
 ##### Languages & Tools
 
 
-:mortar_board:I’m currently learning django and flask
+-:mortar_board:I’m currently learning django and flask
 <!--
 **LBM100/LBM100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
