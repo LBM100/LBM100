@@ -1,5 +1,6 @@
-![Dots](https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg)
-
+<p>
+(img src="https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg" width="100" height="50")
+</p>
 
 ### Hi there 👋,I'm Laura
 
