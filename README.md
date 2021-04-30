@@ -1,4 +1,4 @@
-(img src="https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg" height="60" width="60")
+![Dots](img src="https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg" height="60" width="60")
 
 ### Hi there 👋,I'm Laura
 
