@@ -1,4 +1,4 @@
-![jk](img height="100" width="100" src="https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg")
+(img height="100" width="100" src="https://ih1.redbubble.net/image.385255325.4782/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg")
 
 ### Hi there 👋,I'm Laura
 
